@@ -1,2 +1,0 @@
-# ZandoWebsite
-Ecommerce Website
